@@ -2,8 +2,7 @@
 just test programm
 
 # Created by https://www.toptal.com/developers/gitignore/api/text
-# Edit at https://www.toptal.com/developers/gitignore?templates=text
-
+# Edit at 
 ### Text ###
 *.doc
 *.docx
@@ -15,4 +14,4 @@ just test programm
 *.wpd
 *.wps
 
-# End of https://www.toptal.com/developers/gitignore/api/text
+# End
